@@ -94,13 +94,6 @@ sudo ./set-target.sh --help
 
 ---
 
-## Customization
-
-- To change how many backups are kept, open `set-target.sh` and edit the `MAX_BACKUPS` variable near the top.
-- Want backups in a different directory? I can add a `--backup-dir /path/to/dir` option; say the word and I’ll add it.
-
----
-
 ## Safety & Best Practices
 
 - Use this script only on systems where you have full permission (AttackBox, local VM, or your personal machine). Do **not** run on shared production hosts.
@@ -122,13 +115,10 @@ sudo ./set-target.sh --help
 
 ---
 
-## Contributing & Improvements
-
 If you want a feature (e.g., `--keep N`, `--backup-dir`, or support for IPv6), open an issue or send a PR. I can also add a small test script that simulates `/etc/hosts` modifications in a sandbox directory for CI.
 
 ---
 
 ## License
-
-Use as you like for educational purposes. Add a license file if you want to publish this tool publicly (MIT recommended).
+MIT 
 

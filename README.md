@@ -170,6 +170,10 @@ Never attempt to reproduce these techniques on real-world systems without explic
 **Etka Öncüol**  
 💻 Informatics Enthusiast | 🧩 Dual Study Student (Berlin)  
 🔗 [LinkedIn](https://linkedin.com/in/oncuol-etka) • [GitHub](https://github.com/etmeseh)
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/etmeseh.png" alt="TryHackMe Badge" />
+</p>
+
 
 ---
 
